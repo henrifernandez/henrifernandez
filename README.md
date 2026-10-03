@@ -13,8 +13,7 @@ Só sinto que entendi uma coisa quando construo ela, quebro, conserto e anoto o 
 
 <br>
 
-Plataforma web do ecossistema Aspen Key, um dispositivo físico de segurança para empresas. Reúne conta de usuário, loja, painel administrativo e gestão dos dispositivos. Cuido da parte de software, como backend, banco de dados e testes.
-
+A Aspen Core é a empresa e o nome do software que controla a Aspen Key, uma chave de autenticação física. Quando conectada ao Aspen Network, a chave também passa a ser rastreada por Bluetooth. Atuo na parte de software, com backend, banco de dados e testes.
 </details>
 
 ## Stack
