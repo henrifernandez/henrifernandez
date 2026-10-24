@@ -44,7 +44,7 @@ Estudo tecnologia todos os dias e aprendo melhor com a mão na massa, construind
   </tr>
 </table>
 
-Mais sobre mim no [portfólio](https://enzohf.vercel.app).
+Mais sobre mim no [portfólio](https://enzohf.vercel.app). Para conversar, me chame no [LinkedIn](https://www.linkedin.com/in/enzo-henrique-fernandes) ou por [e-mail](mailto:henryque.alc@gmail.com).
 
 ## Em que estou trabalhando
 
